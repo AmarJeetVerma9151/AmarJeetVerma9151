@@ -1,4 +1,4 @@
-## Hi Amar 👋
+## Hi Arun👋
 
 <!--
 **AmarJeetVerma9151/AmarJeetVerma9151** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
