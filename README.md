@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Premium Neon Waving Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,20&height=220&section=header&text=Hi%20I'm%20Amarjeet%20Verma&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=220&section=header&text=Hi%20I'm%20Amarjeet%20Verma&fontSize=45&fontColor=C9D1D9&desc=Backend%20Developer%20|%20Node.js%20|%20Express.js%20|%20MongoDB&descAlignY=65&descSize=18&animation=fadeIn" />
 
 <br/>
 
