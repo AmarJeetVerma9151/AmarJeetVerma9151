@@ -6,7 +6,7 @@
 <br/>
 
 <!-- Dynamic Neon Typing SVG -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=0AF7FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Node.js+Developer;Express.js+%7C+MongoDB+Developer;REST+API+Architect;Building+Scalable+Solutions" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=0AF7FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Node.js+Developer;Express.js+%7C+MongoDB;REST+APIs;Building+Scalable+Solutions" />
 
 <p align="center">
   <a href="mailto:vermaamarjeet095@gmail.com">
@@ -19,59 +19,48 @@
     <img src="https://img.shields.io/badge/Portfolio-1A1B26?style=for-the-badge&logo=About.me&logoColor=0AF7FF&labelColor=1A1B26&color=0AF7FF" alt="Portfolio"/>
   </a>
 </p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
 </div>
 
-<table width="100%" align="center" style="border-collapse: collapse; border: none;">
-<tr>
-<td width="50%" valign="top" style="border: none;">
+---
 
 ## 💫 About Me
 
-🚀 **Backend Developer** passionate about building highly secure and scalable architectures.
+🚀 **Backend Developer** passionate about building highly secure, scalable, and optimized architectures.
 
-💻 I specialize in **Node.js**, **Express.js**, **MongoDB**, and **REST APIs**.
+🔐 **Core Expertise:** JWT & OTP Authentication | Role Based Access Control (RBAC) | API Integration | MVC Architecture
 
-🔐 **Core Expertise:**
-- JWT & OTP Authentication
-- Role Based Access Control (RBAC)
-- API Integration & DB Design
-- MVC Architecture
+🌱 **Currently Exploring:** `Docker` ⚡ `Redis` ⚡ `AWS` ⚡ `Microservices` ⚡ `System Design`
 
-🌱 **Currently Exploring:**  
-`Docker` ⚡ `Redis` ⚡ `AWS` ⚡ `System Design`
-
-</td>
-<td width="50%" valign="top" style="border: none;">
+---
 
 ## 🚀 Tech Stack
 
-### 🌐 Core Web
-<img src="https://skillicons.dev/icons?i=js,html,css" />
+### ⚙️ Backend
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" /> <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=api&logoColor=white" /> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" />
 
-### ⚙️ Backend & DB
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+### 💻 Languages
+<img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
 
-### 🛠️ Tools
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+### 🗄️ Database
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
 
-</td>
-</tr>
-</table>
+### 🔗 Integrations & APIs
+<img src="https://img.shields.io/badge/Google_OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=white" /> <img src="https://img.shields.io/badge/Zegocloud-1B75FF?style=for-the-badge&logo=webrtc&logoColor=white" /> <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" /> <img src="https://img.shields.io/badge/BunnyCDN-FF6C37?style=for-the-badge&logoColor=white" />
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+### 🛠️ Tools & Platforms
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+
+---
 
 ## 📂 Featured Projects
 
 | 📚 **Notebook IAS** | 📈 **Algo SaaS** | ⛽ **Gas Agency** |
 | :--- | :--- | :--- |
-| Educational Platform for UPSC/IAS students with study materials. | Complete Backend for an Algo Trading Platform with RBAC. | Management system with Admin, Delivery & Customer Modules. |
+| Educational Platform for UPSC/IAS students with study materials & notes. | Complete Backend for an Algo Trading Platform with RBAC & Analytics. | Management system with Admin, Delivery Boy & Customer Modules. |
 | **Tech:** `Node.js`, `MongoDB` | **Tech:** `Node.js`, `Express`, `JWT` | **Tech:** `MERN Stack` |
 | [🔗 Live Demo](https://notebook-ias-web.vercel.app) | [🔗 Live Demo](https://algo-saas-client.vercel.app) | [🔗 Live Demo](https://gas-software.vercel.app) |
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+---
 
 ## 📊 Analytics & Stats
 
@@ -97,7 +86,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=AmarJeetVerma9151&label=Profile%20Views&color=0AF7FF&style=for-the-badge"/>
 
-<br/>
+<br/><br/>
 
 ### 💙 "First, solve the problem. Then, write the code."
 
