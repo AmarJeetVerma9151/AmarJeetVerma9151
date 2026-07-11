@@ -7,18 +7,12 @@
 
 <!-- Dynamic Neon Typing SVG -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=1F6FEB&center=true&vCenter=true&width=800&lines=Backend+Developer;Node.js+Developer;Express.js+%7C+MongoDB;REST+APIs;Building+Scalable+Solutions" />
+
 <p align="center">
-  <a href="mailto:vermaamarjeet095@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-1A1B26?style=for-the-badge&logo=gmail&logoColor=0AF7FF&labelColor=1A1B26&color=0AF7FF" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/amarjeet-verma-018148261">
-    <img src="https://img.shields.io/badge/LinkedIn-1A1B26?style=for-the-badge&logo=linkedin&logoColor=0AF7FF&labelColor=1A1B26&color=0AF7FF" alt="LinkedIn"/>
-  </a>
   <a href="https://github.com/AmarJeetVerma9151/Portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-1A1B26?style=for-the-badge&logo=About.me&logoColor=0AF7FF&labelColor=1A1B26&color=0AF7FF" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-1F6FEB?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-</div>
 
 ---
 
