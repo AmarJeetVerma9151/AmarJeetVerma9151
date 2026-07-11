@@ -5,21 +5,7 @@
 <br/>
 
 <!-- Dynamic Neon Typing SVG -->
-<p align="center">
-
-<a href="https://github.com/AmarJeetVerma9151/Portfolio">
-<img src="https://img.shields.io/badge/🚀_My_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://github.com/AmarJeetVerma9151">
-<img src="https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/amarjeet-verma-018148261">
-<img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=1F6FEB&center=true&vCenter=true&width=800&lines=Backend+Developer;Node.js+Developer;Express.js+%7C+MongoDB;REST+APIs;Building+Scalable+Solutions" />
 
 ---
 
