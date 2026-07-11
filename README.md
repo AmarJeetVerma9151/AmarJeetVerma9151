@@ -6,7 +6,7 @@
 <br/>
 
 <!-- Dynamic Neon Typing SVG -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=1F6FEB&center=true&vCenter=true&width=800&lines=Backend+Developer;Node.js+Developer;Express.js+%7C+MongoDB;REST+APIs;Building+Scalable+Solutions" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&color=58A6FF&multiline=false&repeat=true&lines=🚀+Backend+Developer;⚡+Node.js+Developer;🔥+Express.js+%7C+MongoDB;💻+REST+API+Developer;🌟+Building+Scalable+Solutions" />
 
 <p align="center">
   <a href="mailto:vermaamarjeet095@gmail.com">
